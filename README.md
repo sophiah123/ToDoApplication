@@ -4,7 +4,7 @@ ToDoApplication is an android app that allows building a todo list and basic tod
 
 Submitted by: Sophia Hu
 
-Time spent: 1.5 hours spent in total
+Time spent: 2 hours spent in total
 
 ## User Stories
 
@@ -25,6 +25,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+! [Walkthrough](ToDoApplication.gif)
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
